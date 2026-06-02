@@ -28,30 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 DS Garage
-
-Vehicle tuning simulator with a semi-realistic dyno system developed from scratch using Processing and Java.
-
-### 🏀 NBA Play Analyzer
-
-Platform designed for NBA play analysis and dataset generation for AI model training.
-
-### 📊 FEB Data Hub
-
-Massive statistics processing and visualization platform developed for basketball data analysis.
-
-### 🤖 Trading Alert Bot
-
-Automated monitoring system for stocks, ETFs and cryptocurrencies with instant notifications and sentiment analysis.
-
-### 🐾 Petlink
-
-Animal adoption platform designed for shelters and rescue organizations.
-
----
-
 ## ⚙️ Tech Stack
 
 ### Programming Languages
