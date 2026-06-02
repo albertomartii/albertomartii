@@ -4,6 +4,12 @@
 
 ### Developer • AI • Cybersecurity • Automotive Tech
 
+<img src="https://komarev.com/ghpvc/?username=albertomartii&color=7D39EB&style=for-the-badge" />
+
+<br>
+
+<img src="https://github.com/albertomartii/albertomartii/blob/main/jdm-animated-car-drifting-4j6uhi5iapkoio24.gif" width="800"/>
+
 </div>
 
 ---
@@ -21,6 +27,30 @@
 📷 Photography, Filmmaking and Creative Technology Enthusiast
 
 📍 Castellón, Spain
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 DS Garage
+
+Vehicle tuning simulator with a semi-realistic dyno system developed from scratch using Processing and Java.
+
+### 🏀 NBA Play Analyzer
+
+Platform designed for NBA play analysis and dataset generation for AI model training.
+
+### 📊 FEB Data Hub
+
+Massive statistics processing and visualization platform developed for basketball data analysis.
+
+### 🤖 Trading Alert Bot
+
+Automated monitoring system for stocks, ETFs and cryptocurrencies with instant notifications and sentiment analysis.
+
+### 🐾 Petlink
+
+Animal adoption platform designed for shelters and rescue organizations.
 
 ---
 
@@ -45,10 +75,10 @@
 
 ### Creative Tools
 
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge\&logo=adobephotoshop\&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge\&logo=adobeillustrator\&logoColor=FF9A00)
-![Premiere Pro](https://img.shields.io/badge/Premiere-2A0034?style=for-the-badge\&logo=adobepremierepro\&logoColor=9999FF)
-![FL Studio](https://img.shields.io/badge/FL_Studio-F5792A?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge\&logo=adobephotoshop\&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge\&logo=adobeillustrator\&logoColor=FF9A00)
+![Premiere\_Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-2A0034?style=for-the-badge\&logo=adobepremierepro\&logoColor=9999FF)
+![FL\_Studio](https://img.shields.io/badge/FL_Studio-F5792A?style=for-the-badge)
 
 ---
 
