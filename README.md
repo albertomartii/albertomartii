@@ -86,9 +86,9 @@ Animal adoption platform designed for shelters and rescue organizations.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=albertomartii&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=albertomartii&show_icons=true&theme=black"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomartii&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertomartii&layout=compact&theme=black"/>
 
 </div>
 
