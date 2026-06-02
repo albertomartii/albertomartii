@@ -4,10 +4,6 @@
 
 ### Developer • AI • Cybersecurity • Automotive Tech
 
-*"If it exists, I learn it."*
-
-<img src="https://komarev.com/ghpvc/?username=albertomartii&color=7D39EB&style=for-the-badge" />
-
 </div>
 
 ---
