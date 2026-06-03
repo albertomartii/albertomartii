@@ -18,9 +18,13 @@
 
 Studies: Student of Web & Multiplatform Application Development
 
-Interests:  -Cybersecurity and Ethical Hacking
+Interests:  
+            -Cybersecurity and Ethical Hacking
+
             -Artificial Intelligence, Data Analysis and Automation
+
             -Building Automotive, IoT and Motorsport-focused Projects
+            
             -Photography, Filmmaking and Creative Technology Enthusiast
 
 Location: Castellón, Spain
