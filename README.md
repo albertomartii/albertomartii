@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 Alberto Martí Llorens
+# Alberto Martí Llorens
 
 ### Developer • AI • Cybersecurity • Automotive Tech
 
@@ -14,23 +14,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 Student of Web & Multiplatform Application Development
+Studies: Student of Web & Multiplatform Application Development
 
-🔒 Passionate about Cybersecurity and Ethical Hacking
+Interests:  -Cybersecurity and Ethical Hacking
+            -Artificial Intelligence, Data Analysis and Automation
+            -Building Automotive, IoT and Motorsport-focused Projects
+            -Photography, Filmmaking and Creative Technology Enthusiast
 
-🤖 Interested in Artificial Intelligence, Data Analysis and Automation
-
-🚗 Building Automotive, IoT and Motorsport-focused Projects
-
-📷 Photography, Filmmaking and Creative Technology Enthusiast
-
-📍 Castellón, Spain
+Location: Castellón, Spain
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🚗 DS Garage
 
