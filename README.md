@@ -98,7 +98,7 @@ Animal adoption platform designed for shelters and rescue organizations.
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertomartii&show_icons=true)
 
 ---
 
