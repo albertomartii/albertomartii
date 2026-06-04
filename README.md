@@ -19,14 +19,16 @@
 Studies: Student of Web & Multiplatform Application Development
 
 Interests:  
-```bash
-            >>> Cybersecurity and Ethical Hacking
+```html
+<ul>
+            <li>Cybersecurity and Ethical Hacking</li>
 
-            >>> Artificial Intelligence, Data Analysis and Automation
+            <li>Artificial Intelligence, Data Analysis and Automation</li>
 
-            >>> Building Automotive, IoT and Motorsport-focused Projects
+            <li>Building Automotive, IoT and Motorsport-focused Projects</li>
             
-            >>> Photography, Filmmaking and Creative Technology Enthusiast
+            <li>Photography, Filmmaking and Creative Technology Enthusiast</li>
+</ul>
 ```
 Location: 
 ```java
