@@ -108,17 +108,26 @@ Animal adoption platform designed for shelters and rescue organizations.
 ## Current profesional roadmap
 
 * Full Stack Development
-|
-* Cybersecurity
-|
-* IoT & Embedded Systems
-|
-* Artificial Intelligence
-|
-* Data Analytics
-|
-* Automotive Software
 
+|
+
+* Cybersecurity
+
+|
+
+* IoT & Embedded Systems
+
+|
+
+* Artificial Intelligence
+
+|
+
+* Data Analytics
+
+|
+
+* Automotive Software
 
 ---
 
