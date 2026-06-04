@@ -74,7 +74,7 @@ Animal adoption platform designed for shelters and rescue organizations.
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,git)](https://skillicons.dev)
 
 ### Tools and programs
-[![My Skills](https://skillicons.dev/icons?i=idea,maven,,linux,kali,windows,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,maven,linux,kali,windows,obsidian)](https://skillicons.dev)
 
 
 ### Creative Tools
