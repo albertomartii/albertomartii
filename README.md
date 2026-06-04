@@ -98,23 +98,29 @@ Animal adoption platform designed for shelters and rescue organizations.
 
 </div>
 
+---
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertomartii&show_icons=true)
 
 ---
 
 ## Current profesional roadmap
 
-* Full Stack Development
-*|
-* Cybersecurity
-*|
-* IoT & Embedded Systems
-*|
-* Artificial Intelligence
-*|
-* Data Analytics
-*|
-* Automotive Software
+> [!Full Stack Development]
+
+
+> [!Cybersecurity]
+
+
+> [!IoT & Embedded Systems]
+
+
+> [!Artificial Intelligence]
+
+
+> [!Data Analytics]
+
+
+> [!Automotive Software]
 ---
 
 ## 🌐 Connect With Me
