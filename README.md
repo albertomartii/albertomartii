@@ -105,14 +105,15 @@ Animal adoption platform designed for shelters and rescue organizations.
 
 ---
 
-## 🎯 Current Focus
+## Current roadmap
 
-* Artificial Intelligence
+* Full Stack Development
 * Cybersecurity
+* IoT & Embedded Systems
+* Artificial Intelligence
 * Data Analytics
 * Automotive Software
-* IoT & Embedded Systems
-* Full Stack Development
+
 
 ---
 
