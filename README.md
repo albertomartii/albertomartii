@@ -65,15 +65,20 @@ Animal adoption platform designed for shelters and rescue organizations.
 ## ⚙️ Tech Stack
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,bash,arduino)](https://skillicons.dev)
 
 ### Web Development
-[![My Skills](https://skillicons.dev/icons?i=html5,css,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue,xml)](https://skillicons.dev)
 
 ### Databases & Data
-[![My Skills](https://skillicons.dev/icons?i=MySQL,Postgress,csv,json)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,Postgress,csv,json,git)](https://skillicons.dev)
+
+### Tools and programs
+[![My Skills](https://skillicons.dev/icons?i=idea,maven,linux,kali,windows,obsidian)](https://skillicons.dev)
+
 
 ### Creative Tools
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,gimp)](https://skillicons.dev)
 
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge\&logo=adobephotoshop\&logoColor=31A8FF)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge\&logo=adobeillustrator\&logoColor=FF9A00)
