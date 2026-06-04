@@ -66,20 +66,12 @@ Animal adoption platform designed for shelters and rescue organizations.
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,bash)](https://skillicons.dev)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html5,css,vue)](https://skillicons.dev)
 
 ### Databases & Data
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=MySQL,Postgress,csv,json)](https://skillicons.dev)
 
 ### Creative Tools
 
