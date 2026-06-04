@@ -74,15 +74,11 @@ Animal adoption platform designed for shelters and rescue organizations.
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,git)](https://skillicons.dev)
 
 ### Tools and programs
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,maven,linux,kali,windows,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,maven,linux,kali,windows,obsidian)](https://skillicons.dev)
 
 
 ### Creative Tools
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,gimp)](https://skillicons.dev)
-
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge\&logo=adobephotoshop\&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge\&logo=adobeillustrator\&logoColor=FF9A00)
-![Premiere\_Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-2A0034?style=for-the-badge\&logo=adobepremierepro\&logoColor=9999FF)
 ![FL\_Studio](https://img.shields.io/badge/FL_Studio-F5792A?style=for-the-badge)
 
 ---
