@@ -68,7 +68,7 @@ Animal adoption platform designed for shelters and rescue organizations.
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,bash,arduino)](https://skillicons.dev)
 
 ### Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,xml,processing)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue,processing)](https://skillicons.dev)
 
 ### Databases & Data
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,git)](https://skillicons.dev)
