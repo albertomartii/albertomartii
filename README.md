@@ -74,7 +74,7 @@ Animal adoption platform designed for shelters and rescue organizations.
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,git)](https://skillicons.dev)
 
 ### Tools and programs
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,maven,linux,kali,windows,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,maven,linux,kali,windows,obsidian,wordpress)](https://skillicons.dev)
 
 
 ### Creative Tools
@@ -83,10 +83,10 @@ Animal adoption platform designed for shelters and rescue organizations.
 
 ---
 
-## 📈 GitHub Statistics
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+## 📈 Currently Learning
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=albertomartii&layout=compact&theme=black")
+[![My future Skills](https://skillicons.dev/icons?i=arduino,react,python,cpp)](https://skillicons.dev)
+
 
 ---
 
